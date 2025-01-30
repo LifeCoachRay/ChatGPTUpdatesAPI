@@ -1,0 +1,33 @@
+{
+  "name": "chatgptupdates",
+  "version": "0.1.0",
+  "description": "This API will monitor Chat GPT and Alert you when an update is released.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/lifecoachray.git"
+  },
+  "keywords": [
+    "Chat",
+    "GPT",
+    "API",
+    "Server",
+    "Updates",
+    "AI"
+  ],
+  "author": "Life Coach Ray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github.com/lifecoachray/issues"
+  },
+  "homepage": "https://github.com/github.com/lifecoachray#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
